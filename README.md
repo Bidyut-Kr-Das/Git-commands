@@ -1,4 +1,4 @@
-##All basic git commands
+# All basic git commands
 Git Commands
 
 ### Getting & Creating Projects
